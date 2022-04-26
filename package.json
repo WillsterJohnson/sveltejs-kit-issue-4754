@@ -1,0 +1,16 @@
+{
+  "name": "new-folder",
+  "version": "1.0.0",
+  "description": "creative names only over here",
+  "type": "module",
+  "scripts": {
+    "demo": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willster277/sveltejs-kit-issue-4751.git"
+  },
+  "devDependencies": {
+    "create-svelte": "^2.0.0-next.132"
+  }
+}
